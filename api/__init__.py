@@ -1,0 +1,1 @@
+"""FastAPI microservice layer for the NTRU cryptosystem."""
